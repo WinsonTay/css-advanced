@@ -1,0 +1,30 @@
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+@import "base/animations";
+@import "base/base";
+@import "base/typography";
+@import "base/utilities"; 
+
+@import "pages/home";
+@import "components/buttons";
+@import "layout/header";
+
+/*
+COLORS:
+
+Light green: #7ed56f
+Medium green: #55c57a
+Dark green: #28b485
+
+*/
+/* Perform reset; remove any default margin / padding on certain element such as h1 */
+
+
+
+
+// .btn:hover::after {
+// transform: scale(1.2, 1.5);
+// opacity: 0;
+// }
